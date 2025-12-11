@@ -1,0 +1,8 @@
+venv/
+venvconda/
+__pycache__/
+*.pyc
+face_data.db
+trainer.yml
+dataset/
+.vs/s
