@@ -1,1 +1,0 @@
-# csn-da23ttb-truongthanhbao-OpenCV-python
